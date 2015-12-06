@@ -1,5 +1,5 @@
-# Music Genre Generator
+# Product Idea Generator
 
-> Generates really great music genres names. http://genres.j0.hn
+> Generates product ideas. http://products.j0.hn
 
-Many thanks to The Super Moon Crew (aka Chumbles).
+Designed by Casey Weeks, implemented by John Fawcett.
